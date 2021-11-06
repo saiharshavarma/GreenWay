@@ -1,8 +1,6 @@
-# IEEE-IAS Fall 2021-22 Project
+# GreenWay
 
-<h2>GreenWay</h2>
-
-<h4>Team 3</h4>
+<h4>Team:</h4>
 <ol>
   <li>Pakhi Singh</li>
   <li>Ravi Rungta</li>
